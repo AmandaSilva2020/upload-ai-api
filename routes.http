@@ -17,7 +17,7 @@ Content-Type: audio/mpeg
 
 ###
 
-# @name create-transcriptio
+# @name create-transcription
 POST http://localhost:3333/videos/221a9176-0cb5-4f82-937a-89e136928efb/transcription
 Content-Type: application/json
 
